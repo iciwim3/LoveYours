@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Heart beating fast, let a Player know that HE ALIVE!!!")
+        
+        print("As long as the people in that place love you dearly!")
     }
 
     override func didReceiveMemoryWarning() {
