@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        print("Heart beating fast, let a Player know that HE ALIVE!!!")
     }
 
     override func didReceiveMemoryWarning() {
