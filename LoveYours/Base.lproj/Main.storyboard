@@ -28,10 +28,8 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="pil-uV-vGF" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="DDF-5o-FEA"/>
-                            <constraint firstAttribute="bottom" secondItem="pil-uV-vGF" secondAttribute="bottom" id="PIk-LO-tTI"/>
-                            <constraint firstAttribute="trailing" secondItem="pil-uV-vGF" secondAttribute="trailing" id="bKH-oL-z3S"/>
-                            <constraint firstItem="pil-uV-vGF" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="uVm-lI-snb"/>
+                            <constraint firstItem="TGI-B1-Lth" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="65" id="5FG-62-YW7"/>
+                            <constraint firstItem="TGI-B1-Lth" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="JEL-3s-d7K"/>
                         </constraints>
                     </view>
                 </viewController>
